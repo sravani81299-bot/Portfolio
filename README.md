@@ -159,21 +159,7 @@
 <details>
   <summary><strong>✅ Professional Certificate – Cloud Computing & DevOps</strong></summary>
   <ul>
-    <li>E&ICT Academy, IIT Kanpur (via Simplilearn) · 2025</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>✅ AWS Solutions Architect – Project-based</strong></summary>
-  <ul>
-    <li>IITK program · Completed</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>⏳ Microsoft Azure Administrator (AZ-104) – In Progress</strong></summary>
-  <ul>
-    <li>Coursework completed · Exam scheduled soon</li>
+    <li>E&ICT Academy, IIT Kanpur (via Simplilearn) · 2026</li>
   </ul>
 </details>
 
@@ -203,7 +189,10 @@
   <a href="mailto:sravani81299@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https:https://www.linkedin.com/in/sravani-gaddam-1349271a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/sravani-gaddam-1349271a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sravani81299-bot/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
