@@ -23,21 +23,27 @@ role.
   <summary><strong>Software Engineer – Harman Connected Services (Client: Intel) (Sep 2021 – May 2025)</strong></summary>
 
   <br/>
+  
+DevOps / Cloud Engineer — Harman Connected Services
 
-  **DevOps / Cloud Engineer** — Harman Connected Services (Client: WorkMarket/ADP) · *Sep 2023 – May 2025*
-    - Managed AWS infrastructure for a workforce management platform serving thousands of US enterprises
-    - CI/CD pipelines with Jenkins + GitHub Webhooks for 10+ microservices
-    - Reusable Terraform modules — reduced manual setup by ~60%
-    - Production Kubernetes deployments with zero-downtime rolling updates
-    - Monitoring: CloudWatch + Prometheus + Grafana dashboards and alerts
+Managed AWS infrastructure for a workforce management platform serving thousands of US enterprises
+CI/CD pipelines with Jenkins + GitHub Webhooks for 10+ microservices
+Reusable Terraform modules — reduced manual setup by ~60%
+Production Kubernetes deployments with zero-downtime rolling updates
+Monitoring: CloudWatch + Prometheus + Grafana dashboards and alerts
 
-  - **Touch Driver Validation (IPTS – I2C / SPI):** Validated I2C and SPI protocol-based touch drivers; analyzed DAT, BAT, and functional test cases to identify driver defects. Collected and analyzed ETL log traces using **Traceview** and **Autologger** for bug triage and documentation.
+Touch Driver Validation (IPTS – I2C / SPI)
 
-  - **Display & Graphics Validation:** Performed multi-display testing across **eDP, DP, HDMI, and Thunderbolt (TBT)** interfaces using dongles and hub docks. Triaged graphics issues including screen corruption, blank screens, freezes/hangs, application crashes, BSOD, and TDR events.
+Validated I2C and SPI protocol-based touch drivers; analyzed DAT, BAT, and functional test cases to identify driver defects. Collected and analyzed ETL log traces using Traceview and Autologger for bug triage and documentation.
+Display & Graphics Validation
 
-  - **Log Analysis:** Collected GFX ETL and WPT logs for pass/fail analysis; submitted detailed triage findings to the development team. Verified touch smoothness at various refresh rates using **Digiinfo**; conducted CPU/graphics stress and torture tests.
+Performed multi-display testing across eDP, DP, HDMI, and Thunderbolt (TBT) interfaces using dongles and hub docks. Triaged graphics issues including screen corruption, blank screens, freezes/hangs, application crashes, BSOD, and TDR events.
+Log Analysis
 
-  - **WHQL Compliance:** Validated **Windows Hardware Quality Labs (WHQL)** compliance using the **HLK (Hardware Lab Kit)** test framework. Performed regression testing on content protection, media, and display defects; tracked issues via **HSD** and **Jira**.
+Collected GFX ETL and WPT logs for pass/fail analysis; submitted detailed triage findings to the development team. Verified touch smoothness at various refresh rates using Digiinfo; conducted CPU/graphics stress and torture tests.
+WHQL Compliance
+
+Validated Windows Hardware Quality Labs (WHQL) compliance using the HLK (Hardware Lab Kit) test framework. Performed regression testing on content protection, media, and display defects; tracked issues via HSD and Jira.
 
 </details>
 
