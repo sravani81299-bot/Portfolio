@@ -9,7 +9,7 @@
 
 ## 🧾 Profile Summary
 
-** Software Engineer with 3.8+ years of experience across Post-Silicon Driver Validation and Cloud/DevOps 
+Software Engineer with 3.8+ years of experience across Post-Silicon Driver Validation and Cloud/DevOps 
 Engineering. Worked on driver validation projects (touch and graphics) at Harman Connected Services (Client: Intel) and as a 
 Cloud/DevOps Engineer on enterprise AWS infrastructure. Currently upskilling in Cloud Computing & DevOps through a 
 Professional Certificate Program (IIT Kanpur | E&ICT Academy via Simplilearn). Seeking to grow further in a Cloud/DevOps 
@@ -23,6 +23,13 @@ role.
   <summary><strong>Software Engineer – Harman Connected Services (Client: Intel) (Sep 2021 – May 2025)</strong></summary>
 
   <br/>
+
+  - **DevOps / Cloud Engineer** — Harman Connected Services (Client: WorkMarket/ADP) · *Sep 2023 – May 2025*
+- Managed AWS infrastructure for a workforce management platform serving thousands of US enterprises
+- CI/CD pipelines with Jenkins + GitHub Webhooks for 10+ microservices
+- Reusable Terraform modules — reduced manual setup by ~60%
+- Production Kubernetes deployments with zero-downtime rolling updates
+- Monitoring: CloudWatch + Prometheus + Grafana dashboards and alerts
 
   - **Touch Driver Validation (IPTS – I2C / SPI):** Validated I2C and SPI protocol-based touch drivers; analyzed DAT, BAT, and functional test cases to identify driver defects. Collected and analyzed ETL log traces using **Traceview** and **Autologger** for bug triage and documentation.
 
