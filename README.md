@@ -24,12 +24,12 @@ role.
 
   <br/>
 
-  - **DevOps / Cloud Engineer** — Harman Connected Services (Client: WorkMarket/ADP) · *Sep 2023 – May 2025*
-- Managed AWS infrastructure for a workforce management platform serving thousands of US enterprises
-- CI/CD pipelines with Jenkins + GitHub Webhooks for 10+ microservices
-- Reusable Terraform modules — reduced manual setup by ~60%
-- Production Kubernetes deployments with zero-downtime rolling updates
-- Monitoring: CloudWatch + Prometheus + Grafana dashboards and alerts
+  **DevOps / Cloud Engineer** — Harman Connected Services (Client: WorkMarket/ADP) · *Sep 2023 – May 2025*
+    - Managed AWS infrastructure for a workforce management platform serving thousands of US enterprises
+    - CI/CD pipelines with Jenkins + GitHub Webhooks for 10+ microservices
+    - Reusable Terraform modules — reduced manual setup by ~60%
+    - Production Kubernetes deployments with zero-downtime rolling updates
+    - Monitoring: CloudWatch + Prometheus + Grafana dashboards and alerts
 
   - **Touch Driver Validation (IPTS – I2C / SPI):** Validated I2C and SPI protocol-based touch drivers; analyzed DAT, BAT, and functional test cases to identify driver defects. Collected and analyzed ETL log traces using **Traceview** and **Autologger** for bug triage and documentation.
 
