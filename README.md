@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sravani</h1>
-<h3 align="center">🚀 Post-Silicon Validation Engineer | ☁️ Cloud & DevOps Enthusiast</h3>
+<h3 align="center">🚀 Cloud & DevOps Engineer | AWS | Terraform | Docker | Kubernetes | Linux </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Post-Silicon+Validation+Engineer;Cloud+%26+DevOps+Enthusiast;AWS+%7C+Azure+%7C+Kubernetes;Transitioning+to+Cloud+%26+DevOps" alt="Typing SVG" />
@@ -9,14 +9,18 @@
 
 ## 🧾 Profile Summary
 
-**Post-Silicon Validation Engineer with 3.8+ years of experience** in driver validation (graphics and touch) at **Harman Connected Services (Client: Intel)**. Skilled in **I2C/SPI touch validation**, multi-display testing, ETL log analysis, and **WHQL/HLK test frameworks**. Currently upskilling through the **Professional Certificate Program in Cloud Computing & DevOps (IIT Kanpur | E&ICT Academy via Simplilearn)**, with hands-on project experience in **AWS, Azure, Docker, Kubernetes, Jenkins, Ansible, and Terraform**. Seeking to transition into a **Cloud/DevOps role** leveraging a strong foundation in hardware validation, system architecture, and automation.
+** Software Engineer with 3.8+ years of experience across Post-Silicon Driver Validation and Cloud/DevOps 
+Engineering. Worked on driver validation projects (touch and graphics) at Harman Connected Services (Client: Intel) and as a 
+Cloud/DevOps Engineer on enterprise AWS infrastructure. Currently upskilling in Cloud Computing & DevOps through a 
+Professional Certificate Program (IIT Kanpur | E&ICT Academy via Simplilearn). Seeking to grow further in a Cloud/DevOps 
+role.
 
 ---
 
 ## 💼 Experience
 
 <details>
-  <summary><strong>Software Engineer – Post-Silicon Validation | Harman Connected Services (Client: Intel) (Sep 2021 – May 2025)</strong></summary>
+  <summary><strong>Software Engineer – Harman Connected Services (Client: Intel) (Sep 2021 – May 2025)</strong></summary>
 
   <br/>
 
