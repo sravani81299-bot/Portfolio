@@ -16,11 +16,11 @@ Software Engineer with 3.8+ years of experience across Post-Silicon Driver Valid
 ## 💼 Experience
 
 <details>
-<summary><strong>Software Engineer – Harman Connected Services (Client: Intel) &nbsp;·&nbsp; Sep 2021 – May 2025</strong></summary>
+<summary><strong>Software Engineer – Harman Connected Services &nbsp;·&nbsp; Sep 2021 – May 2025</strong></summary>
 
 <br/>
 
-**DevOps / Cloud Engineer** — Harman Connected Services (Client: WorkMarket/ADP) · *Sep 2023 – May 2025*
+**DevOps / Cloud Engineer** — Harman Connected Services 
 
 - Managed AWS infrastructure for a workforce management platform serving thousands of US enterprises
 - CI/CD pipelines with **Jenkins** + **GitHub Webhooks** for 10+ microservices
